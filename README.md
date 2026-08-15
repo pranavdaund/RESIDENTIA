@@ -204,7 +204,7 @@ Frontend runs on `http://localhost:3000`
 
 ## 🛠️ Known Improvements (Planned)
 
-- [ ] Deploy to AWS / Railway / Render
+<!-- - [ ] Deploy to AWS / Railway / Render --->
 - [ ] Add email notifications on booking confirmation
 - [ ] Implement review & rating system
 - [ ] Add map-based property search
